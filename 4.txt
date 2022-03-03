@@ -1,1 +1,1 @@
-new file added
+Edited the 4.txt file for knowing the diff between fetch and pull
